@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatiag41&label=Profile%20views&color=0e75b6&style=flat" alt="bhatiag41" /> </p>
 
-- 🔭 I’m currently working on [Inventory Management](https://inventory-management-sys-8812a.web.app/home)
-
 - 📫 How to reach me **bhatiag41@gmail.com**
 
 - 🎉Fun fact about me **I love Photography**
